@@ -1,0 +1,78 @@
+((("add-to-list" .
+   [1 0 0 0 0 0 1 0 0 0 1])
+  ("init-cedet" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [3 0 0 0 0 0 0])
+  ("provide" .
+   [2 0 0 0 0 0 0])
+  ("semantic-default-submodes" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1])
+  ("ac-emacs-lisp-mode-setup" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-hook" .
+   [1 0 0 2 0 0 0 0])
+  ("setq-default" .
+   [0 0 0 0 0 2 0 0 0 0 0 0])
+  ("setq" .
+   [10 0 0 1])
+  ("ac-sources" .
+   [1 0 2 0 1 0 0 0 0 1])
+  ("ac-source-dictionary" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("ac+-source-elisp-features" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defun" .
+   [2 0 0 0 0])
+  ("auto-complete-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("append" .
+   [2 0 0 0 0 0])
+  ("ac-source-abbrev" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ac-source-words-in-same-mode-buffers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ac-source-files-in-current-dir" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ac-eshell-mode-setup" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("global-semantic-stickyfunc-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-" .
+   [0 0 0 0 0 0 1])
+  ("global-semantic-highlight-func-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global-semantic-idle-" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("global-semantic-idle-summary-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("de" .
+   [1 0])
+  ("python" .
+   [1 0 0 0 0 0])
+  ("auto-mode-alist" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("python-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("init-python" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("require-package" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("jedi:setup" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("kbd" .
+   [2 0 0])
+  ("jedi:goto-definition" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("local-set-key" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("jedi:show-doc" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("jedi:complete-on-dot" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("python-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("my/python-mode-stuff" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))

@@ -1,0 +1,1 @@
+("~/.emacs.d/elpa/jedi-core-0.2.8/" "~/development/soft-contable/")
